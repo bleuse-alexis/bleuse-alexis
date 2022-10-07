@@ -11,10 +11,9 @@ I'm a new retrained Web developer after working as a system administrator.
 
 - :exclamation: I'm looking for jobs opportunities
 
-<div>
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleuse-alexis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bleuse-alexis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
   
 ---
 
