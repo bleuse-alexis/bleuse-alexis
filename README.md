@@ -32,7 +32,7 @@ I'm a new retrained Web developer after working as a system administrator.
 
 ### :mailbox: How to reach me:
 
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/alexis-bleuse-067a32100/)
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-bleuse-067a32100/)
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bleuse.alexis@gmail.com)
 
