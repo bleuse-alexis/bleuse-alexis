@@ -11,10 +11,10 @@ I'm a new retrained Web developer after working as a system administrator.
 
 - :exclamation: I'm looking for jobs opportunities
 
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleuse-alexis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleuse-alexis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bleuse-alexis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+  </div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -35,7 +35,7 @@ I'm a new retrained Web developer after working as a system administrator.
 ### :mailbox: How to reach me:
 
 <div>
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/alexis-bleuse-067a32100/)
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/alexis-bleuse-067a32100/)&nbsp;
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bleuse.alexis@gmail.com)
 </div>
