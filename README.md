@@ -11,10 +11,10 @@ I'm a new retrained Web developer after working as a system administrator.
 
 - :exclamation: I'm looking for jobs opportunities
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-bleuse-067a32100/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alexis Bleuse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-bleuse-067a32100/)
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleuse-alexis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bleuse-alexis)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bleuse-alexis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
