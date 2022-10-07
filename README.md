@@ -11,14 +11,14 @@ I'm a new retrained Web developer after working as a system administrator.
 
 - :exclamation: I'm looking for jobs opportunities
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-bleuse-067a32100/)
-
+<div>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleuse-alexis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bleuse-alexis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
+  
 ---
 
-### ### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40" />&nbsp;
@@ -29,6 +29,16 @@ I'm a new retrained Web developer after working as a system administrator.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40" />&nbsp;
+</div>
+
+---
+
+### :mailbox: How to reach me:
+
+<div>
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/alexis-bleuse-067a32100/)
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bleuse.alexis@gmail.com)
 </div>
 
 <!--
